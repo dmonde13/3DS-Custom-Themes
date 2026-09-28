@@ -8,4 +8,4 @@ I wrote this documentation after working through the process myself, including
 image preparation, theme configuration, audio conversion and looping, package
 creation, wireless file transfer, hardware testing, and troubleshooting.
 
-**[Read the full guide (PDF)](General_3DS_Custom_Theme_Guide_1.pdf)**
+**[Read the full guide (PDF)](General_3DS_Custom_Theme_Guide.pdf)**
